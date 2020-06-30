@@ -1,0 +1,74 @@
+.card {
+    width: 38%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border: 10px inset #709e1a;
+    float: left;
+    justify-content: center;
+}
+
+.info {
+    margin: 5px 5px;
+    float: left;
+    width: 50%;
+    font-size: 20px;
+}
+
+.thumbnail {
+    width: 150px;
+    height: 150px;
+    border-radius: 25%;
+    float: right;
+    margin-right: 5%;
+    border: 2px solid  rgb(58, 122, 63);
+}
+
+.title {
+    font-size: 30px;
+    text-decoration: indigo;
+    color: rgb(58, 122, 63);
+}
+
+@media screen and (max-width: 589px) {
+    /* comes into effect for screens larger than or equal to 481 pixels */
+
+    .card {
+        width: 95%;
+        margin-left: 1%;
+        margin-right: 1%;
+        border: 5px inset #709e1a;
+    }
+    .thumbnail {
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .info {
+        margin: 5px 5px;
+        float: center;
+        width: 95%;
+        font-size: 15px;
+    }
+    .title {
+        font-size: 20px;
+    }
+
+}
+
+@media screen and (min-width:590px) and (max-width: 1270px) {
+    /* comes into effect for screens less than or equal to 320 pixels */
+    .card {
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .sign {
+        width: 95%;
+    }
+    .title {
+        font-size: 25px;
+    }
+}
