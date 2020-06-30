@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/.github.io/cook-board/static/css/main.99cbe4a1.chunk.css",
+    "main.js": "/.github.io/cook-board/static/js/main.8dfab047.chunk.js",
+    "main.js.map": "/.github.io/cook-board/static/js/main.8dfab047.chunk.js.map",
+    "runtime-main.js": "/.github.io/cook-board/static/js/runtime-main.904a6447.js",
+    "runtime-main.js.map": "/.github.io/cook-board/static/js/runtime-main.904a6447.js.map",
+    "static/js/2.cf1751fb.chunk.js": "/.github.io/cook-board/static/js/2.cf1751fb.chunk.js",
+    "static/js/2.cf1751fb.chunk.js.map": "/.github.io/cook-board/static/js/2.cf1751fb.chunk.js.map",
+    "index.html": "/.github.io/cook-board/index.html",
+    "precache-manifest.7d6487a7a4f1e8c1764074ca66cb74f9.js": "/.github.io/cook-board/precache-manifest.7d6487a7a4f1e8c1764074ca66cb74f9.js",
+    "service-worker.js": "/.github.io/cook-board/service-worker.js",
+    "static/css/main.99cbe4a1.chunk.css.map": "/.github.io/cook-board/static/css/main.99cbe4a1.chunk.css.map",
+    "static/js/2.cf1751fb.chunk.js.LICENSE.txt": "/.github.io/cook-board/static/js/2.cf1751fb.chunk.js.LICENSE.txt",
+    "static/media/CookBoardLogo.png": "/.github.io/cook-board/static/media/CookBoardLogo.a985bca3.png",
+    "static/media/logo.svg": "/.github.io/cook-board/static/media/logo.5d5d9eef.svg",
+    "static/media/no-image.png": "/.github.io/cook-board/static/media/no-image.a957eec2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.904a6447.js",
+    "static/js/2.cf1751fb.chunk.js",
+    "static/css/main.99cbe4a1.chunk.css",
+    "static/js/main.8dfab047.chunk.js"
+  ]
+}
