@@ -5,7 +5,7 @@
     margin-top: 10px;
     margin-bottom: 10px;
     height: 300px;
-    border: 10px inset #709e1a;
+    border: 5px solid #000000;
     float: left;
     justify-content: center;
 }
@@ -23,13 +23,14 @@
     border-radius: 25%;
     float: right;
     margin-right: 5%;
-    border: 2px solid  rgb(58, 122, 63);
+    border: 2px solid  black;
 }
 
 .title {
     font-size: 30px;
     text-decoration: indigo;
-    color: rgb(58, 122, 63);
+    color: rgb(255, 255, 255);
+    background-color: black;
 }
 
 @media screen and (max-width: 589px) {
@@ -39,7 +40,7 @@
         width: 95%;
         margin-left: 1%;
         margin-right: 1%;
-        border: 5px inset #709e1a;
+        border: 5px solid black;
     }
     .thumbnail {
         float: none;

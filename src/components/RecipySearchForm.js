@@ -1,7 +1,7 @@
 import React from 'react';
 import Axios from 'axios';
 import Item from './Item';
-import logo from './styles/logo.svg';
+import logo from './styles/logo.png';
 import CookBoardLogo from './styles/CookBoardLogo.png';
 import './styles/App.css';
 
@@ -108,10 +108,14 @@ class RecipySearchForm extends React.Component {
             <div className='App'>
                 <div onSubmit={this.handleSubmit}>
                     <form className='form'>
-                        <label htmlFor='dish'>Type of dish:</label>
-                        <input className='input' type='text' name='dish' onChange={this.handleChange} value={this.state.dish}></input> <br />
-                        <label htmlFor='ingredients'> Ingredients:</label>
-                        <input className='input' type='text' name='ingredients' onChange={this.handleChange} placeholder='Ex. mushrooms' value={this.state.ingredients}></input> <br />
+                        <div className='dishinp'>
+                            <label  htmlFor='dish'>Type of dish:</label>
+                            <input className='input' type='text' name='dish' onChange={this.handleChange} value={this.state.dish}></input>
+                        </div >
+                        <div className='ingredientsinp'>
+                            <label  htmlFor='ingredients'> Ingredients:</label>
+                            <input className='input' type='text' name='ingredients' onChange={this.handleChange} placeholder='Ex. mushrooms' value={this.state.ingredients}></input>
+                        </div>
                         <button className='button' type='submit'>SUBMIT</button>
                     </form>
                     <img className='cookboard' src={CookBoardLogo} alt="" />
