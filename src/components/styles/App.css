@@ -40,6 +40,7 @@ body {
 .sign {
   font-family: 'Brush Script MT';
   font-size: 30px;
+  display: block;
 }
 
 .bottom {

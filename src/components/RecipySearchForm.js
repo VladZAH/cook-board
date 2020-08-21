@@ -122,7 +122,7 @@ class RecipySearchForm extends React.Component {
                     <div className='content'>
                         {this.handleRender()}
                     </div>
-                    <p className='sign'>Bon Apetit</p>
+                    <p className='sign'>Enjoy your meal</p>
                 </div>
                 <div className='bottom'>
                     <button className='button' value='previous' onClick={this.nextPage}>PREVIOUS</button>
