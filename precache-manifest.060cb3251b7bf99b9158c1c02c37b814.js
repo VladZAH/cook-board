@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce256425954a18d31a24fdd5ddd2cb81",
+    "revision": "a2e4c0d6dd7c3b27fe9582875a4e49c5",
     "url": "/cook-board/index.html"
   },
   {
-    "revision": "747608a3e46e8b30919c",
-    "url": "/cook-board/static/css/main.9d3c0340.chunk.css"
+    "revision": "686f6ee67f34a2c8f889",
+    "url": "/cook-board/static/css/main.938cb6d6.chunk.css"
   },
   {
     "revision": "7d0d52804b8c39bbb379",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cook-board/static/js/2.cf1751fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "747608a3e46e8b30919c",
-    "url": "/cook-board/static/js/main.3bd6f696.chunk.js"
+    "revision": "686f6ee67f34a2c8f889",
+    "url": "/cook-board/static/js/main.957594a1.chunk.js"
   },
   {
     "revision": "6c95b80aa4580d566afa",
