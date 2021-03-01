@@ -6,4 +6,4 @@ You can search dishes to make by ingredient or by the name.
  - JavaScript ES5 & ES6
  - ReactJS (hooks)
  - HTML + CSS
- I am planning to improve it by adding mongoDB serverside and middleware for authenticationpurposes.
+ I am planning to improve it by adding mongoDB serverside and middleware for authentication purposes.
